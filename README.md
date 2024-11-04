@@ -28,3 +28,16 @@ VideoShare is a full-stack video-sharing platform built with the MERN stack (Mon
     -   MongoDB
     -   Mongoose for MongoDB object modeling
     -   Cloudinary for storage
+ 
+
+**Some ScreenShots of Endpoints Test using collection created at Postman**
+
+<img width="1440" alt="Screenshot 2024-11-04 at 11 56 52 AM" src="https://github.com/user-attachments/assets/14cbbc74-2338-4066-bcbd-4848321ff381">
+<img width="1440" alt="Screenshot 2024-11-04 at 1 05 03 AM" src="https://github.com/user-attachments/assets/e669f0a3-2996-4229-b694-8a5aa411a726">
+<img width="1440" alt="Screenshot 2024-11-04 at 1 04 53 AM" src="https://github.com/user-attachments/assets/3495c1fa-3162-49dc-add6-019e703c880b">
+<img width="1440" alt="Screenshot 2024-11-04 at 1 05 16 AM" src="https://github.com/user-attachments/assets/63763625-76b4-40a1-b161-94279f71b0c9">
+<img width="1440" alt="Screenshot 2024-11-04 at 12 02 34 PM" src="https://github.com/user-attachments/assets/731d2606-68e0-4368-8ae3-71a16f5fa7ed">
+<img width="1440" alt="Screenshot 2024-11-04 at 12 02 44 PM" src="https://github.com/user-attachments/assets/311fe8f1-cdd4-4661-81b8-d652ff35a5ce">
+
+
+
